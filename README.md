@@ -20,8 +20,8 @@ The `index.html` uses dependencies (such as Google Fonts), and `stand-alone.html
 
 | Actions    | Keys    |
 |-------------|-------------|
-| Move left | A / Left arrow key |
-| Move right | D / Right arrow key |
-| Soft drop | S / Down arrow key |
-| Hard drop | W / Up arrow key |
-| Rotate | R / Shift (L/R) | 
+| Move left | Left arrow key |
+| Move right | Right arrow key |
+| Soft drop | Down arrow key |
+| Hard drop | Up arrow key |
+| Rotate | Shift (L/R) | 
